@@ -1,7 +1,7 @@
 Source: bromo-theme
 Section: gnome
 Priority: optional
-Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com>
+Maintainer: Aditya Rahman <aditya@mydrive.id>
 Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.6
 Vcs-Git: https://gitlab.com/cho2/bromo-theme.git
